@@ -2,7 +2,7 @@
   "data": [
     {
     "username":"quangvu",
-"san":"RIK"
+    "san":"RIK"
     }
   ]
 }
