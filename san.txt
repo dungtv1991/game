@@ -1,7 +1,8 @@
 {
-  data:[
+  "data":[
     {
-      quangvu:RIK
+      "username":"quangvu",
+      "san":"RIK"
     }
   ]
 }
